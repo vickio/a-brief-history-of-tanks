@@ -1,6 +1,6 @@
 # A Brief History of Tanks
 
-This is my entry for the r/proceduralgeneration [Procedural Challenge #3 - Armoured Fighting Vehicles](https://www.reddit.com/r/proceduralgeneration/comments/c7pcnk/procedural_challenge_3_armoured_fighting_vehicles/). It is a simple GPT-2 powered tank name and description generator. For sample output of 350 tanks, see [A Brief History of Tanks.md](A Brief History of Tanks.md). Here are few hand-picked examples:
+This is my entry for the r/proceduralgeneration [Procedural Challenge #3 - Armoured Fighting Vehicles](https://www.reddit.com/r/proceduralgeneration/comments/c7pcnk/procedural_challenge_3_armoured_fighting_vehicles/). It is a simple GPT-2 powered tank name and description generator. For sample output of 350 tanks, see [A Brief History of Tanks.md](A%20Brief%20History%20of%20Tanks.md). Here are few handpicked examples:
 
 > ## KONKEY
 >
